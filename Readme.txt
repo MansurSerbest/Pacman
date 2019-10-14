@@ -9,11 +9,6 @@ Play:
 Xbox Controller : Use D-Pad
 Keyboard: player1 uses the arrow, player2 uses wasd
 
-GitHub
-=========
-
-https://github.com/SariCari92/PacMan
-
 Engine
 =========
 
